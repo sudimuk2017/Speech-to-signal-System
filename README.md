@@ -1,7 +1,7 @@
 # DEAF Communicator
 **************************************************
 
-fj fffffffff gvv hgvgyv
+fj ffffffff gvv hgvgyv
 
 This project can help you to encode your voice message into the sign language.
 
